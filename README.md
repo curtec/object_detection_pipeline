@@ -7,4 +7,12 @@ There will be a branch to deal with multimodel models such as florence2 which al
 1. My first step is always to setup and clone a github repositry for the project.
 2. Once I create a github repositry with a readme and mit licence the next step is to edit the gitignore file to include and file that uses the format .* (so and file that begins with a dot as this is the way that I like to name my venv and I rarely use other files that are formatted this way).
 3. Clone the repositry to your local computer.
-4. 
+4. cd into directory
+
+# Setup Virtual Environment
+I will be using venv but use whatever virtual environment you prefer, just use one.
+1. Navigate to the project directory.
+2. ![addressBar1](https://github.com/user-attachments/assets/84af51f9-a805-439f-85a5-94498a3daf57)
+3. 
+
+4. In the andress bar for windows explorer type cmd and hit 'enter'
