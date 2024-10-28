@@ -18,4 +18,12 @@ I will be using venv but use whatever virtual environment you prefer, just use o
 7. Acivate the venv {.objectDetect}\Scripts\activate<br><br>![activate](https://github.com/user-attachments/assets/d8007242-5d96-46ad-a761-b602d4434155)<br><br><br>
 
 
+# Download a Dataset For Training
+
+# Create a Dataset For Training
+
+# Train The YOLO11 Model on The Custiom Dataset
+
+# Evaluate The Trained Model
+
 
