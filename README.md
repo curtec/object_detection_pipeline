@@ -27,3 +27,4 @@ I will be using venv but use whatever virtual environment you prefer, just use o
 # Evaluate The Trained Model
 
 
+# Deploy The Model
