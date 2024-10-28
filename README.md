@@ -6,7 +6,7 @@ Whenever I use {} this means that the user should remove this code including the
 
 # Setup GITHUB
 1. My first step is always to setup and clone a github repositry for the project.
-2. Once I create a github repositry with a readme and mit licence the next step is to edit the gitignore file to include and file that uses the format .* (so and file that begins with a dot as this is the way that I like to name my venv and I rarely use other files that are formatted this way).
+2. Once I create a github repositry with a readme and mit licence the next step is to edit the gitignore file to include and file that uses the format .objectDetect (you can use just venv with no need to change the gitignore file but this way I can be sure what environment I'm in).
 3. Clone the repositry to your local computer.
 4. cd into directory
 
