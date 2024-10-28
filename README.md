@@ -13,7 +13,7 @@ Whenever I use {} this means that the user should remove this code including the
 # Setup Virtual Environment
 I will be using venv but use whatever virtual environment you prefer, just use one.
 1. Navigate to the project directory.
-2. ![addressBar1](https://github.com/user-attachments/assets/84af51f9-a805-439f-85a5-94498a3daf57)
+2. ![addressBar1](https://github.com/user-attachments/assets/84af51f9-a805-439f-85a5-94498a3daf57) /n
 3. In the andress bar for windows explorer type cmd and hit 'enter'
 4. ![addressBar2](https://github.com/user-attachments/assets/7290562b-7f91-4821-ab5c-31b5066340df)
 5. At the command prompt type python -m venv {the name that you require for your venv}
